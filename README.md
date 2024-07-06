@@ -1,4 +1,4 @@
-System Design Pattern LLD 
+System Design Pattern
 LLD : . Creational . Structural . Behavioural 
 
 Creational Design Pattern
