@@ -4,13 +4,11 @@ public class Client {
 
     private static void fillRegistry(StudentRegistry studentRegistry) {
         Student mar24LLDEvePrototype = new Student();
-        mar24LLDEvePrototype.setName("Arpit");
         mar24LLDEvePrototype.setBatch("Mar24Eve");
         mar24LLDEvePrototype.setAvgPsp(80);
         studentRegistry.register("Mar24Eve", mar24LLDEvePrototype);
 
         Student feb24LLDEvePrototype = new Student();
-        mar24LLDEvePrototype.setName("Feb");
         feb24LLDEvePrototype.setBatch("Feb24Eve");
         feb24LLDEvePrototype.setAvgPsp(75);
         studentRegistry.register("feb24LLDEve", feb24LLDEvePrototype);
